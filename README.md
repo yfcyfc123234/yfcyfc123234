@@ -10,10 +10,9 @@
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=kotlin" /> </span>
+ 
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yfcyfc123234.yfcyfc123234&left_color=green&right_color=red)
-
-  ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/yfcyfc123234.yfcyfc123234.svg)
+  ![views](https://visitor-badge-deno.deno.dev/yfcyfc123234.yfcyfc123234.svg)
   
 <!--
 **yfcyfc123234/yfcyfc123234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
