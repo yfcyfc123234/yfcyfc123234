@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> 
   <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=kotlin" /> </span>
 
-  ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=yfcyfc123234&left_color=green&right_color=red)
   
 <!--
 **yfcyfc123234/yfcyfc123234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
