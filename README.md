@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfcyfc123234)](https://github.com/yfcyfc123234/github-readme-stats)
+
+[![Lorin-github](https://github-readme-stats.vercel.app/api?username=yfcyfc123234)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **yfcyfc123234/yfcyfc123234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
