@@ -9,7 +9,8 @@
 <span > 
 <img src="https://img.shields.io/badge/-Java-E34F26?style=flat-square&logo=java" /> 
   <img src="https://img.shields.io/badge/-Kotlin-1572B6?style=flat-square&logo=kotlin" /> 
-  <img src="https://img.shields.io/badge/-C++-oringe?style=flat-square&logo=c++" /> </span>
+<img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-black?logo=C%2B%2B">
+</span>
  
 
   ![views](https://visitor-badge-deno.deno.dev/yfcyfc123234.yfcyfc123234.svg)
