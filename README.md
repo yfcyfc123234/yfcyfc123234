@@ -6,8 +6,7 @@
 
 <span >  
   <img alt="Static Badge" src="https://img.shields.io/badge/-kotlin-black?logo=kotlin&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-java-black?logo=jameson&logoColor=white">
-  <img alt="Static Badge" src="https://img.shields.io/badge/-C%2B%2B-black?logo=C%2B%2B&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/-java-black?logo=jameson&logoColor=white"> 
 </span>
  
   ![views](https://visitor-badge-deno.deno.dev/yfcyfc123234.yfcyfc123234.svg) 
