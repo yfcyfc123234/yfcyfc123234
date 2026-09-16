@@ -14,8 +14,6 @@
 
 ## GitHub stats
 
-Official `github-readme-stats.vercel.app` is currently paused, so these cards use a public instance plus [streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats).
-
 <p align="center">
   <img height="165" alt="GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yfcyfc123234&show_icons=true&theme=tokyonight&hide_border=true&hide_title=false" />
   <img height="165" alt="Top languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yfcyfc123234&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" />
